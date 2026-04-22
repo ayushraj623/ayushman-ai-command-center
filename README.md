@@ -27,4 +27,4 @@ Ayushman AI is a full-stack, autonomous triage and logistics command center desi
 ## 👨‍💻 Author
 **Ayush Raj**
 Aspiring Engineer | CGC University Mohali 
-*Built for National Level Hackathon 2026*
+
