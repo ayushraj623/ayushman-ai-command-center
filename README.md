@@ -10,7 +10,7 @@ Ayushman AI is a full-stack, autonomous triage and logistics command center desi
 * **Live SOS Logistics:** Real-time proximity tracking for the nearest hospital and pharmacy.
 * **Ambulance Live Tracking:** Animated GPS progress bar showing the ambulance's approach in kilometers.
 * **Secure Rx Generation:** Downloadable PDF prescription with an anti-fraud QR hash for pharmacists.
-* **Drone Med-Drop:** Automated UAV dispatch protocol for remote medicine delivery.
+
 
 ## 🛠️ Technology Stack
 
